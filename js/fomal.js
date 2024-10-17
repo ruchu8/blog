@@ -98,8 +98,9 @@ function getDistance(e1, n1, e2, n2) {
 }
 
 function showWelcome() {
-
-  let dist = getDistance(24.672448,113.52882, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
+  console.log("Pcscs🙄🙄🙄")
+  let dist = getDistance(24.672448,113.52882, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //
+  
   let pos = ipLoacation.result.ad_info.nation;
   let ip;
   let posdesc;
@@ -287,7 +288,7 @@ function showWelcome() {
     document.getElementById("welcome-info").innerHTML =
       `<b><center>🎉 欢迎信息 🎉</center>&emsp;&emsp;欢迎来自 <span style="color:var(--theme-color)">${pos}</span> 的小伙伴，${timeChange}您现在距离站长约 <span style="color:var(--theme-color)">${dist}</span> 公里，当前的IP地址为： <span style="color:var(--theme-color)">${ip}</span>， ${posdesc}</b>`;
   } catch (err) {
-    // console.log("Pjax无法获取#welcome-info元素🙄🙄🙄")
+     console.log("Pjax无法获取#welcome-info元素🙄🙄🙄")
   }
 }
 window.onload = showWelcome;
