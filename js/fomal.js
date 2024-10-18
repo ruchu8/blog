@@ -3174,11 +3174,11 @@ let unsplash = "url(https://source.unsplash.com/random/1920x1080/)";
 if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
-  document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-71.jpg);
-    --darkmode-bg:url(https://img-cdn.99j.us.kg/img2/ruchu-72.jpg);
-    --mobileday-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-73.jpg);
-    --mobilenight-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-74.jpg);
+  // document.getElementById("defineBg").innerText = `:root{
+  //   --default-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-71.jpg);
+  //   --darkmode-bg:url(https://img-cdn.99j.us.kg/img2/ruchu-72.jpg);
+  //   --mobileday-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-73.jpg);
+  //   --mobilenight-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-74.jpg);
   }`;
 }
 // 切换背景主函数
