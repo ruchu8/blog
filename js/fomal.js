@@ -3177,8 +3177,8 @@ if (localStorage.getItem("blogbg") != undefined) {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-71.jpg);
     --darkmode-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-71.jpg);
-    --mobileday-bg: url(https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/ec43126fgy1gmufzch1aoj20vc1kwqf1.jpg);   
-    --mobilenight-bg: url(https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/ec43126fgy1gmufzch1aoj20vc1kwqf1.jpg);
+    --mobileday-bg: url(https://sourcebucket.s3.bitiful.net/img/snow.webp);   
+    --mobilenight-bg: url(https://sourcebucket.s3.bitiful.net/img/mb8.webp);
 
 
   }`;
