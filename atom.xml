@@ -6,7 +6,7 @@
   <link href="https://592.us.kg/atom.xml" rel="self"/>
   
   <link href="https://592.us.kg/"/>
-  <updated>2024-10-18T01:41:40.816Z</updated>
+  <updated>2024-10-18T01:42:54.762Z</updated>
   <id>https://592.us.kg/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://592.us.kg/posts/9fcc6925.html"/>
     <id>https://592.us.kg/posts/9fcc6925.html</id>
     <published>2024-10-18T01:40:41.000Z</published>
-    <updated>2024-10-18T01:41:40.816Z</updated>
+    <updated>2024-10-18T01:42:54.762Z</updated>
     
-    <content type="html"><![CDATA[<h1>PHP 简介</h1><p>PHP（全名：PHP: Hypertext Preprocessor）是一种广泛使用的开源服务器端脚本语言，特别适用于网页开发。它可以嵌入HTML中，并且与多种数据库系统兼容，如MySQL、PostgreSQL等。</p><h2 id="PHP-的特点">PHP 的特点</h2><ol><li><strong>易学易用</strong>：PHP 语法简单，容易上手，对于初学者友好。</li><li><strong>快速开发</strong>：PHP 具有强大的功能，可以快速构建动态网站。</li><li><strong>开源</strong>：PHP 是开放源代码的，具有广泛的社区支持。</li><li><strong>跨平台</strong>：PHP 可以运行在多种操作系统上，如 Windows、Linux 和 macOS。</li><li><strong>丰富的功能库</strong>：PHP 提供了丰富的标准库，并且有许多第三方库可供使用。</li></ol><h2 id="PHP-的安装">PHP 的安装</h2><p>在本地安装 PHP，通常需要以下步骤：</p><ol><li>下载 <a href="https://www.php.net/downloads">PHP 官方网站</a> 的 PHP 安装包。</li><li>解压并将其放置在适当的位置（如 <code>C:\php</code>）。</li><li>配置环境变量，将 PHP 文件夹添加到系统 PATH 中。</li><li>测试 PHP 安装，打开命令行，输入 <code>php -v</code> 来查看版本信息。</li></ol><h2 id="PHP-基本语法">PHP 基本语法</h2><p>以下是 PHP 的基本语法示例：</p><pre><code class="language-php">&lt;?php// 输出 Hello, World!echo &quot;Hello, World!&quot;;?&gt;</code></pre>]]></content>
+    <content type="html"><![CDATA[<h1>PHP 简介</h1><p>PHP（全名：PHP: Hypertext Preprocessor）是一种广泛使用的开源服务器端脚本语言，特别适用于网页开发。它可以嵌入HTML中，并且与多种数据库系统兼容，如MySQL、PostgreSQL等。</p><h2 id="PHP-的特点">PHP 的特点</h2><ol><li><strong>易学易用</strong>：PHP 语法简单，容易上手，对于初学者友好。</li><li><strong>快速开发</strong>：PHP 具有强大的功能，可以快速构建动态网站。</li><li><strong>开源</strong>：PHP 是开放源代码的，具有广泛的社区支持。</li><li><strong>跨平台</strong>：PHP 可以运行在多种操作系统上，如 Windows、Linux 和 macOS。</li><li><strong>丰富的功能库</strong>：PHP 提供了丰富的标准库，并且有许多第三方库可供使用。</li></ol><h2 id="PHP-的安装">PHP 的安装</h2><p>在本地安装 PHP，通常需要以下步骤：</p><ol><li>下载 <a href="https://www.php.net/downloads">PHP 官方网站</a> 的 PHP 安装包。</li><li>解压并将其放置在适当的位置（如 <code>C:\php</code>）。</li><li>配置环境变量，将 PHP 文件夹添加到系统 PATH 中。</li><li>测试 PHP 安装，打开命令行，输入 <code>php -v</code> 来查看版本信息。</li></ol><h2 id="PHP-基本语法">PHP 基本语法</h2><p>以下是 PHP 的基本语法示例：</p><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="comment">// 输出 Hello, World!</span></span><br><span class="line"><span class="keyword">echo</span> <span class="string">&quot;Hello, World!&quot;</span>;</span><br><span class="line"><span class="meta">?&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
     
     
       

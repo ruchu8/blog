@@ -3175,10 +3175,10 @@ if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
   document.getElementById("defineBg").innerText = `:root{
-    --default-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-71.jpg);
-    --darkmode-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-71.jpg);
-    --mobileday-bg: url(https://img-baofun.zhhainiao.com/fs/mobile/static/65f4efd6b019b8cbff64c09bb464fdd5.jpg);   
-    --mobilenight-bg: url(https://img-baofun.zhhainiao.com/fs/mobile/static/65f4efd6b019b8cbff64c09bb464fdd5.jpg);
+    --default-bg: url(https://img.moehu.org/pic.php?id=img1);
+    --darkmode-bg: url(https://img.moehu.org/pic.php?id=img1);
+    --mobileday-bg: url(https://img.moehu.org/pics.php?id=sjpic);   
+    --mobilenight-bg: url(https://bing.img.run/m.php);
 
 
   }`;
