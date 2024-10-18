@@ -5,7 +5,7 @@
 <script src="https://cdn.jsdelivr.net/npm/leancloud-storage@4.15.2/dist/av-min.js"></script>
 <script src="https://www.jq22.com/jquery/jquery-1.10.2.js"></script>
 <link rel="stylesheet" href="https://npm.elemecdn.com/lxgw-wenkai-screen-webfont/style.css" media="print" onload="this.media='all'">
-<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="./style.css">
 <link rel="icon" href="favicon.png">
 <meta name="description" content="基于leancloud开发的一款网页应用，表白墙，结合css，JavaScript，实现静态网页的交互应用">
 <meta name="keywords" content="告白, 表白墙, 个人博客, 网页应用">
@@ -65,7 +65,7 @@
 						}
 					}
 
-					$.getJSON('https://cdn.jsdelivr.net/gh/bin862324915/blog-cdn@main/js/video.json', function(data){
+					$.getJSON('./video.json', function(data){
 						if (true){
 							var video_list_length = data.length
 							var seed = Math.random()
