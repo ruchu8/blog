@@ -3174,13 +3174,22 @@ let unsplash = "url(https://source.unsplash.com/random/1920x1080/)";
 if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
-  // document.getElementById("defineBg").innerText = `:root{
+  document.getElementById("defineBg").innerText = `:root{
+ 
+
+    --default-bg: url(https://sourcebucket.s3.bitiful.net/img/home_bg.webp);
+    --darkmode-bg:url(https://sourcebucket.s3.bitiful.net/img/dark_mode.webp);
+    --mobileday-bg: url(https://sourcebucket.s3.bitiful.net/img/snow.webp);   
+    --mobilenight-bg: url(https://sourcebucket.s3.bitiful.net/img/mb8.webp);
+
+
+  }`;
+}
   //   --default-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-71.jpg);
   //   --darkmode-bg:url(https://img-cdn.99j.us.kg/img2/ruchu-72.jpg);
   //   --mobileday-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-73.jpg);
   //   --mobilenight-bg: url(https://img-cdn.99j.us.kg/img2/ruchu-74.jpg);
-  }`;
-}
+
 // 切换背景主函数
 function changeBg(s) {
   // 自定义颜色框
