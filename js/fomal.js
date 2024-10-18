@@ -215,7 +215,7 @@ function showWelcome() {
           posdesc = "来碗热干面！";
           break;
         case "湖南省":
-          posdesc = "74751，长沙斯塔克。";
+          posdesc = "岳麓山下，湘江水长流";
           break;
         case "广东省":
           posdesc = "老板来两斤福建人。";
