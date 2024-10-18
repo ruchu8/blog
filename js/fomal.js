@@ -3177,8 +3177,8 @@ if (localStorage.getItem("blogbg") != undefined) {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://img.moehu.org/pic.php?id=img1);
     --darkmode-bg: url(https://img.moehu.org/pic.php?id=img1);
-    --mobileday-bg: url(https://img.moehu.org/pics.php?id=sjpic);   
-    --mobilenight-bg: url(https://bing.img.run/m.php);
+    --mobileday-bg: url(https://t.mwm.moe/mp);
+    --mobilenight-bg: url(https://t.mwm.moe/mp);
 
 
   }`;
