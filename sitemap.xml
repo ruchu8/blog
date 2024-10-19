@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/site/time/index.html</loc>
+    <loc>https://592.us.kg/site/census/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -200,7 +200,7 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/site/census/index.html</loc>
+    <loc>https://592.us.kg/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -250,6 +250,20 @@
   </url>
   
   <url>
+    <loc>https://592.us.kg/tags/Markdown/</loc>
+    <lastmod>2024-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2024-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://592.us.kg/tags/git%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2024-10-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -270,24 +284,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://592.us.kg/tags/Markdown/</loc>
-    <lastmod>2024-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://592.us.kg/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2024-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://592.us.kg/categories/hexo/</loc>
+    <lastmod>2024-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2024-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -309,13 +316,6 @@
   
   <url>
     <loc>https://592.us.kg/categories/%E5%85%8D%E8%B4%B9AI/</loc>
-    <lastmod>2024-10-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://592.us.kg/categories/%E6%BC%94%E7%A4%BA/</loc>
     <lastmod>2024-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
