@@ -3177,10 +3177,8 @@ if (localStorage.getItem("blogbg") != undefined) {
   document.getElementById("defineBg").innerText = `:root{
     --default-bg: url(https://img.moehu.org/pic.php?id=img1);
     --darkmode-bg: url(https://img.moehu.org/pic.php?id=img1);
-    --mobileday-bg: url(https://pic.moehu.org/large/ec43126fgy1h01w1sood7j21tv3f44qz.jpg);
-    --mobilenight-bg: url(https://pic.moehu.org/large/ec43126fgy1gw9c1kg1f7j20xc1l21kx.jpg);
-
-
+    --mobileday-bg: url();
+    --mobilenight-bg: url();
   }`;
 }
 // PC 端白天、PC 端黑夜、手机端白天、手机端黑夜
