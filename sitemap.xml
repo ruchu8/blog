@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://592.us.kg/posts/aee32b68.html</loc>
+    
+    <lastmod>2024-10-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/posts/70c81a15.html</loc>
+    
+    <lastmod>2024-10-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://592.us.kg/posts/1f9a8c40.html</loc>
     
     <lastmod>2024-10-21</lastmod>
@@ -245,7 +263,7 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/personal/bb/index.html</loc>
+    <loc>https://592.us.kg/life/movies/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -254,7 +272,7 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/life/movies/index.html</loc>
+    <loc>https://592.us.kg/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -299,6 +317,27 @@
 
   
   <url>
+    <loc>https://592.us.kg/tagshex/HEXO/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/tagshex/HEXO%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/tagshex/Markdown/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://592.us.kg/tagshex/git%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -320,27 +359,6 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/tagshex/Markdown/</loc>
-    <lastmod>2024-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://592.us.kg/tagshex/HEXO/</loc>
-    <lastmod>2024-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://592.us.kg/tagshex/HEXO%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2024-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://592.us.kg/tagshex/python/</loc>
     <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -355,21 +373,14 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/tagshex/css/</loc>
-    <lastmod>2024-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://592.us.kg/tagshex/html/</loc>
-    <lastmod>2024-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://592.us.kg/tagshex/CSS/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/tagshex/css/</loc>
     <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -382,7 +393,28 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>https://592.us.kg/tagshex/html/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
+  
+  <url>
+    <loc>https://592.us.kg/categories/hexo/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/categories/Markdown/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://592.us.kg/categories/git%E5%91%BD%E4%BB%A4/</loc>
@@ -406,20 +438,6 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/categories/Markdown/</loc>
-    <lastmod>2024-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://592.us.kg/categories/hexo/</loc>
-    <lastmod>2024-10-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://592.us.kg/categories/python/</loc>
     <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -435,6 +453,13 @@
   
   <url>
     <loc>https://592.us.kg/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <lastmod>2024-10-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2024-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
