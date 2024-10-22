@@ -367,13 +367,6 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/tagshex/Markdown/</loc>
-    <lastmod>2024-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://592.us.kg/tagshex/git%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -403,6 +396,13 @@
   
   <url>
     <loc>https://592.us.kg/tagshex/sev00/</loc>
+    <lastmod>2024-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/tagshex/Markdown/</loc>
     <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -446,13 +446,6 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/categories/Markdown/</loc>
-    <lastmod>2024-10-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://592.us.kg/categories/git%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -475,6 +468,13 @@
   
   <url>
     <loc>https://592.us.kg/categories/python/</loc>
+    <lastmod>2024-10-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/categories/Markdown/</loc>
     <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
