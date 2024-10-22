@@ -308,15 +308,6 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/site/time/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://592.us.kg/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -327,6 +318,15 @@
   
   <url>
     <loc>https://592.us.kg/personal/love/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.us.kg/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -495,14 +495,14 @@
   </url>
   
   <url>
-    <loc>https://592.us.kg/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <loc>https://592.us.kg/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
     <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://592.us.kg/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/</loc>
+    <loc>https://592.us.kg/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2024-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
