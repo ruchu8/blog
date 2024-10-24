@@ -7109,7 +7109,7 @@ div#archive {
 }
 
 /* 鼠标样式 */
-#cursor {
+/* #cursor {
   position: fixed;
   width: 16px;
   height: 16px;
@@ -7120,7 +7120,7 @@ div#archive {
   pointer-events: none;
   transition: 0.2s ease-in-out;
   transition-property: background, opacity, transform;
-}
+} */
 
 #cursor.hidden {
   opacity: 0;
