@@ -1,10 +1,10 @@
 body {
-    cursor: url(https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
+    cursor: url(../img/cur.png),
         default;
 }
 a,
 img {
-    cursor: url(https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
+    cursor: url(../img/cur.png),
         default;
 }
 
