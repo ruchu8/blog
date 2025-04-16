@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://592.dpdns.org/social/link/index.html</loc>
+    
+    <lastmod>2025-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.dpdns.org/personal/about/index.html</loc>
+    
+    <lastmod>2025-04-16</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://592.dpdns.org/js/video-0001.json</loc>
     
     <lastmod>2024-10-26</lastmod>
@@ -983,24 +1001,6 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/social/link/index.html</loc>
-    
-    <lastmod>2024-10-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://592.dpdns.org/personal/about/index.html</loc>
-    
-    <lastmod>2024-10-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://592.dpdns.org/about/index.html</loc>
     
     <lastmod>2024-10-21</lastmod>
@@ -1257,14 +1257,14 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/tagshex/JavaScript/</loc>
+    <loc>https://592.dpdns.org/tagshex/HTML5/</loc>
     <lastmod>2025-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/tagshex/HTML5/</loc>
+    <loc>https://592.dpdns.org/tagshex/JavaScript/</loc>
     <lastmod>2025-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
