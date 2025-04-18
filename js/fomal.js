@@ -85,7 +85,7 @@ $.ajax({
 
 $.ajax({
   type: 'get',
-  url: 'http://whois.pconline.com.cn/ipJson.jsp',
+  url: 'https://ipinfo.io/json',
   data: {
     output: 'jsonp',
   },
