@@ -81,6 +81,25 @@ $.ajax({
     ipLoacation = res;
   }
 })
+
+
+$.ajax({
+  type: 'get',
+  url: 'http://whois.pconline.com.cn/ipJson.jsp',
+  data: {
+    output: 'jsonp',
+  },
+  dataType: 'jsonp',
+  success: function (res) {
+     ipdz = res;
+    console.log('成功获取IP位置信息：', ipdz);
+  },
+  error: function (xhr, status, error) {
+    console.error('获取IP位置信息失败：', error);
+  }
+});
+
+
 function getDistance(e1, n1, e2, n2) {
   const R = 6371
   const { sin, cos, asin, PI, hypot } = Math
@@ -131,7 +150,7 @@ function showWelcome() {
       break;
     case "中国":
       pos = ipLoacation.result.ad_info.province + " " + ipLoacation.result.ad_info.city + " " + ipLoacation.result.ad_info.district;
-      ip = ipLoacation.result.ip;
+      ip = ipdz.ip;
       switch (ipLoacation.result.ad_info.province) {
         case "北京市":
           posdesc = "北——京——欢迎你~~~";
