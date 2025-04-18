@@ -96,9 +96,9 @@ $.ajax({
   },
   error: function (xhr, status, error) {
     console.error('获取IP位置信息失败：', error);
+   ipdz=ipLoacation
   }
 });
-
 
 function getDistance(e1, n1, e2, n2) {
   const R = 6371

@@ -776,7 +776,7 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/posts/pxsrplgm.html</loc>
+    <loc>https://592.dpdns.org/posts/tohxoknd.html</loc>
     
     <lastmod>2024-10-22</lastmod>
     
@@ -785,7 +785,7 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/posts/tohxoknd.html</loc>
+    <loc>https://592.dpdns.org/posts/pxsrplgm.html</loc>
     
     <lastmod>2024-10-22</lastmod>
     
@@ -821,15 +821,6 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/posts/vnolexkb.html</loc>
-    
-    <lastmod>2024-10-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://592.dpdns.org/posts/zdwrdost.html</loc>
     
     <lastmod>2024-10-22</lastmod>
@@ -839,7 +830,7 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/posts/ppupbhzf.html</loc>
+    <loc>https://592.dpdns.org/posts/vnolexkb.html</loc>
     
     <lastmod>2024-10-22</lastmod>
     
@@ -849,6 +840,15 @@
   
   <url>
     <loc>https://592.dpdns.org/posts/rxgfxyds.html</loc>
+    
+    <lastmod>2024-10-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://592.dpdns.org/posts/ppupbhzf.html</loc>
     
     <lastmod>2024-10-22</lastmod>
     
@@ -1172,7 +1172,7 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/personal/bb/index.html</loc>
+    <loc>https://592.dpdns.org/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -1190,7 +1190,7 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/site/time/index.html</loc>
+    <loc>https://592.dpdns.org/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -1252,7 +1252,7 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/tagshex/JavaScript/</loc>
+    <loc>https://592.dpdns.org/tagshex/Vue/</loc>
     <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1266,7 +1266,7 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/tagshex/Vue/</loc>
+    <loc>https://592.dpdns.org/tagshex/JavaScript/</loc>
     <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1280,14 +1280,14 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/tagshex/JavaScript%E7%89%B9%E6%95%88/</loc>
+    <loc>https://592.dpdns.org/tagshex/jQuery/</loc>
     <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/tagshex/jQuery/</loc>
+    <loc>https://592.dpdns.org/tagshex/JavaScript%E7%89%B9%E6%95%88/</loc>
     <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1317,7 +1317,7 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/categories/JavaScript/</loc>
+    <loc>https://592.dpdns.org/categories/Vue/</loc>
     <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1331,7 +1331,7 @@
   </url>
   
   <url>
-    <loc>https://592.dpdns.org/categories/Vue/</loc>
+    <loc>https://592.dpdns.org/categories/JavaScript/</loc>
     <lastmod>2025-04-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
