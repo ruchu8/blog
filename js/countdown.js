@@ -71,7 +71,7 @@ const CountdownTimer = (() => {
                             <div class="cd-progress-bar" style="width: ${percentage}%; opacity: ${percentage/100}"></div>
                             <span class="cd-percentage ${percentage >= 46 ? 'cd-many' : ''}">${percentage.toFixed(2)}%</span>
                             <span class="cd-remaining ${percentage >= 60 ? 'cd-many' : ''}">
-                                <span class="cd-tip">还剩</span>${unit}<span class="cd-tip">  ${remaining}</span>
+                                <span class="cd-tip">还剩</span>${remaining}<span class="cd-tip">  ${remaining}</span>
                             </span>
                         </div>
                     </div>
