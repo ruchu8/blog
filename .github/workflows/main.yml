@@ -1,0 +1,21 @@
+name: Move audio files
+on:
+  push:
+    branches: [ main ]
+jobs:
+  move-files:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Create mp3 directory
+        run: mkdir -p mp3
+      - name: Move .aac and .m4a files
+        run: |
+          find . -maxdepth 1 -type f \( -name "*.aac" -o -name "*.m4a" \) -exec mv {} mp3/ \;
+      - name: Commit changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Move .aac and .m4a files to mp3 directory"
+          git push
